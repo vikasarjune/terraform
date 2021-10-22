@@ -14,6 +14,7 @@
 ####################################################################################################
 #
 #
+# updated file 
 clear
 echo "You are configuring Network Bonding on `hostname`. You must be in the Console before doint this."
 echo "Else you might be disconnected when the network is restarted."
